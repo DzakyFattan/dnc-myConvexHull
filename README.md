@@ -9,6 +9,8 @@ Program ini berfungsi untuk membentuk convex hull dari kumpulan data dua dimensi
 
 File program yang dapat dijalankan yaitu file `myConvexHull.ipynb` (python notebook), didalamnya terdapat implementasi dari library `myConvexHull` dan testing visualisasi untuk dataset `iris`, `wine`, dan `diabetes`. Program sudah diujicoba dan dapat dijalankan pada sistem operasi Windows 11 dengan memanfaatkan Jupyter Notebook berbasis Python 3
 
+File `myConvexHull.py` juga disediakan sebagai modul terpisah yang dapat diimport, namun tidak digunakan di dalam file notebook karena implementasinya sudah ada di dalamnya.
+
 ---
 
 ### B. Requirement program
