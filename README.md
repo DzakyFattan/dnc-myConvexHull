@@ -7,7 +7,7 @@
 
 Program ini berfungsi untuk membentuk convex hull dari kumpulan data dua dimensi, yang dalam hal ini kumpulan data tersebut dapat dianggap sebagai titik-titik pada bidang planar x-y. Bahasa yang digunakan adalah Bahasa Python. program ini dibuat sebagai modul python agar dapat digunakan pada kode program python lain yang membutuhkannya.
 
-File program yang dapat dijalankan yaitu file `myConvexHull.ipynb` (python notebook), didalamnya terdapat implementasi dari library `myConvexHull` dan testing visualisasi untuk dataset `iris`, `wine`, dan `diabetes`. Program sudah diujicoba dan dapat dijalankan pada sistem operasi Windows 11 dengan memanfaatkan Jupyter Notebook berbasis Python 3
+File program yang dapat dijalankan yaitu file `myConvexHull.ipynb` (python notebook), didalamnya terdapat implementasi dari library `myConvexHull` dan testing visualisasi untuk dataset `iris`, `wine`, dan `breast_cancer`. Program sudah diujicoba dan dapat dijalankan pada sistem operasi Windows 11 dengan memanfaatkan Jupyter Notebook berbasis Python 3
 
 File `myConvexHull.py` juga disediakan sebagai modul terpisah yang dapat diimport, namun tidak digunakan di dalam file notebook karena implementasinya sudah ada di dalamnya.
 
